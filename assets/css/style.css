@@ -1,0 +1,10 @@
+.jumbotron {
+  background: url("../images/newyork.jpg");
+  background-position: center -50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.panel-primary>.panel-heading {
+  background-color: grey;
+}
